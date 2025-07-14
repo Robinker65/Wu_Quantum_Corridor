@@ -1,0 +1,19 @@
+id,page,desc,status,priority
+1,all,Initial setup - no bugs yet,fixed,low
+2,app/config.php,Room (1,0) not unlocked at game start,fixed,medium
+3,file_structure,PHP files scattered in root directory,fixed,high
+4,public/index.php,CSS path broken after restructure,fixed,medium
+5,app/room_data.php,Ignorance ending - Room unlock conflicts with ending requirements,open,critical
+6,choice.php,Integration ending too difficult - sanity management impossible,open,high
+7,app/room_data.php,Escape Methods knowledge gain paths unclear,open,medium
+8,app/config.php,Investigation score sanity reduction not working properly,open,medium
+9,corridor.php,Room unlock indicators not clear to players,open,low
+10,choice.php,High knowledge choices cause excessive sanity loss,open,medium
+11,app/room_data.php,Memory Fragments path blocked by Digital Nature unlock requirement,open,critical
+12,end.php,Integration ending requires 15 knowledge points with 60+ sanity - mathematically challenging,fixed,high
+13,app/config.php,Room (0,0) Origin Chamber not in initial unlock list despite no requirements,fixed,high
+14,app/room_data.php,Ignorance ending unlock conflict - room (0,2) requires Digital Nature ≥1 but ending needs ≤1,fixed,high
+15,app/room_data.php,Escape Methods knowledge sources severely limited affecting Integration ending,open,medium
+16,app/room_data.php,Memory Fragments circular dependency - need fragments to unlock fragment sources,open,medium
+17,app/room_data.php,Investigation Score barrier too high for (3,0) room access,open,medium
+18,app/config.php,Sanity loss too aggressive for high-knowledge choices,open,medium
